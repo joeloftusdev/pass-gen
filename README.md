@@ -11,7 +11,7 @@ You can decide to use:
 * Numbers
 * The desired amount of characters
 
-### Password Generation
+### Password Strength Check
 You can check current passwords and generated passwords with a strength check giving you a score of:
 * Very good
 * Good
